@@ -1,0 +1,33 @@
+.container-fluid .red_side {
+  color: red;
+}
+
+.nav-padding {
+  padding: 40px 30px;
+  margin-left: 60px;
+}
+
+.menu-list-margin {
+  margin-left: 50px;
+}
+
+.list-margin {
+  margin-left: 20px;
+}
+
+.logo-main img {
+  width: 50%;
+}
+
+.tag a {
+  margin-right: 20px;
+  color: #1b1b1b !important;
+}
+
+.blog-img img {
+  max-width: 100%;
+}
+
+.blog-elements .span1 {
+  margin-right: 10px;
+}/*# sourceMappingURL=style.css.map */
