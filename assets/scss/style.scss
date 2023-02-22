@@ -33,3 +33,23 @@ $red_color: red;
         margin-right: 10px;
     }
 }
+.blog-quote{
+    background-color: #fdfbfc;
+    height: 170px;
+    .quote{
+        top:60px;
+        left:50px;
+    }
+    overflow: hidden;
+    
+}
+.quote-icon{
+    i{
+        color: #fce6e4;
+        position: absolute;
+        left: 600px;
+        font-size: 150px;
+        top: -50px;
+    }
+    
+}

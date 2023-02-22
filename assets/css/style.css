@@ -30,4 +30,22 @@
 
 .blog-elements .span1 {
   margin-right: 10px;
+}
+
+.blog-quote {
+  background-color: #fdfbfc;
+  height: 170px;
+  overflow: hidden;
+}
+.blog-quote .quote {
+  top: 60px;
+  left: 50px;
+}
+
+.quote-icon i {
+  color: #fce6e4;
+  position: absolute;
+  left: 600px;
+  font-size: 150px;
+  top: -50px;
 }/*# sourceMappingURL=style.css.map */
